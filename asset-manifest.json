@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/EZEEBOOK/static/css/main.80372d51.css",
+    "main.js": "/EZEEBOOK/static/js/main.951aad1c.js",
+    "static/js/787.38f16daf.chunk.js": "/EZEEBOOK/static/js/787.38f16daf.chunk.js",
+    "static/media/carausel1.jpg": "/EZEEBOOK/static/media/carausel1.c08158c868d16836426b.jpg",
+    "static/media/carausel3.jpg": "/EZEEBOOK/static/media/carausel3.50c898daaece686c7d92.jpg",
+    "static/media/carausel2.jpg": "/EZEEBOOK/static/media/carausel2.6b3448a6461812c4411c.jpg",
+    "index.html": "/EZEEBOOK/index.html",
+    "main.80372d51.css.map": "/EZEEBOOK/static/css/main.80372d51.css.map",
+    "main.951aad1c.js.map": "/EZEEBOOK/static/js/main.951aad1c.js.map",
+    "787.38f16daf.chunk.js.map": "/EZEEBOOK/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80372d51.css",
+    "static/js/main.951aad1c.js"
+  ]
+}
